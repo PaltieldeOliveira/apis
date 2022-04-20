@@ -1,4 +1,5 @@
-[
+{
+    "data": [
     {
         "id": 1,
         "titulo": "Songs Of Freedom - Bob Marley",
@@ -21,3 +22,4 @@
         "category": "mpb"
     }
 ]
+}
